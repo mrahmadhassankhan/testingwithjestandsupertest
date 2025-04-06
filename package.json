@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "I will be unit testing with jest and api testing with supertest in this project ",
   "main": "index.js",
+  "type": "commonjs",
   "scripts": {
     "start": "node src/express-api-testing/app.js",
     "dev": "nodemon src/express-api-testing/app.js",
