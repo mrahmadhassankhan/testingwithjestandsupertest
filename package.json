@@ -1,0 +1,18 @@
+{
+  "name": "testingwithjestandsupertest",
+  "version": "1.0.0",
+  "description": "I will be unit testing with jest and api testing with supertest in this project ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "Ahmad Hassan Khan",
+  "license": "MIT",
+  "devDependencies": {
+    "jest": "^29.7.0",
+    "supertest": "^7.1.0"
+  },
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
